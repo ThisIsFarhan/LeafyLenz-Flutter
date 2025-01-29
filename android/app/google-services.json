@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405106106745",
+    "project_id": "leafylenz",
+    "storage_bucket": "leafylenz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405106106745:android:05cd524a5fa864b2024fa8",
+        "android_client_info": {
+          "package_name": "com.example.leafy_lenz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVH7EiQFYjIKhBjXte_BWNc3mSvcPRjpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -25,7 +25,7 @@ class _GuideGenerationScreenState extends State<GuideGenerationScreen> {
   bool isSaving = false;
   var uuid = const Uuid();
   DateTime now = DateTime.now();
-  final api = "AIzaSyBG0OaCE-whogvZmzeWErKRvVzXZiMWdRI";
+  final api = "";
 
 
 

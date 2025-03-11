@@ -1,6 +1,8 @@
 # LeafyLenz - Plant Care Guide App
 
 LeafyLenz is a **Flutter-based mobile application** that identifies rare plants using an **image classification model** and provides **AI-generated care guides** using **Gemini 1.5 Flash**. The app is backed by **Firebase**, ensuring seamless user authentication, real-time data storage, and cloud-based processing.
+[Dataset Link](https://www.kaggle.com/datasets/marquis03/flower-classification)  
+
 
 ## Features
 - **Rare Plant Identification:** Uses a trained **image classification model** to detect plant species.
